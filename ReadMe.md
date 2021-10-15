@@ -1,4 +1,4 @@
-# PG&E - MRAD Node.js Coding Challenge
+
 
 ## Task :-- You need to create an AWS lambda function to do the following:
 
